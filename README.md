@@ -89,8 +89,4 @@ By completing this project, you will:
 3.	Execute each query step-by-step (Basic → Intermediate → Advanced).
 4.	Analyze outputs and explore variations.
 
-# Future Enhancements
-•	Add visualization layer in Power BI using this dataset.
-•	Create stored procedures for automated analysis.
-•	Add advanced SQL joins and window analytics.
 
