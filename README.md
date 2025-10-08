@@ -80,8 +80,8 @@ By completing this project, you will:
 👋 Varun Singh
 🎓 BBA Student | 📊 Aspiring Data Analyst
 💡 Skilled in SQL, Excel, Power BI, Python
-🔗 LinkedIn Profile (Add your LinkedIn link here)
-📂 Other Projects (Optional: Add your other GitHub projects link)
+🔗 LinkedIn Profile www.linkedin.com/in/varunsingh-analytics
+
 
 # How to Use
 1.	Clone or download this repository.
